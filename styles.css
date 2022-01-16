@@ -55,7 +55,7 @@ hr {
     border-radius: 2rem;
     border: 1px solid var(--primary-color);
     max-width: 140px;
-    margin: 1rem auto;
+    margin: 1rem;
     padding: 0.6rem 1.2rem;
 }
 
@@ -169,6 +169,9 @@ hr {
 /** projects **/
 .showcase-list {
     padding: 2rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin: 3rem auto;
 }
 
 /** blogs **/
